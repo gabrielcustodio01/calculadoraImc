@@ -37,9 +37,6 @@ class MainActivity : AppCompatActivity() {
                     .show()
                 //mostrar mensagem para o usuario
             }
-
-
-
         }
     }
 }
