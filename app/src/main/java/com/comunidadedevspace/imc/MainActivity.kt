@@ -20,7 +20,7 @@ class MainActivity : AppCompatActivity() {
             val pesoString: String = editTextPeso.text.toString()
             val alturaString: String = editTextAltura.text.toString()
 
-            if(pesoString != "" && alturaString != "") {
+            if (pesoString != "" && alturaString != "") {
                 val peso: Float = pesoString.toFloat()
                 val altura: Float = alturaString.toFloat()
 
