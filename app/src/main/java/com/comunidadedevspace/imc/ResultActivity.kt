@@ -49,5 +49,7 @@ class ResultActivity : AppCompatActivity() {
         textView_classificacao.text = classificacao
 
         println("Resultado em ResultActivity " + result)
+
+        //testando commit
     }
 }
